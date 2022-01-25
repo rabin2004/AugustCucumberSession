@@ -51,6 +51,4 @@ public class MainClass {
 	public void tearDown() {
 		driver.close();
 	}
-	
-	// Added something -> updated
 }
